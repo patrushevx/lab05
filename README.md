@@ -2,3 +2,4 @@
 <h2> W tworzeniu tego repozytorium brali udział: </h2>
 - 😁 Maksym Patrushev
 - 😉 Vladyslav Hliuzitskyi
+xd
